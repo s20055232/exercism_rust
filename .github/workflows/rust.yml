@@ -30,3 +30,6 @@ jobs:
     - name: Test clock
       working-directory: clock
       run: cargo test --verbose
+    - name: Test anagram
+      working-directory: anagram
+      run: cargo test --verbose

@@ -3,6 +3,10 @@
 Welcome to Anagram on Exercism's Rust Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
+## 解題邏輯
+
+要比較兩個字串是否使用相同數量的字母，除了計算每個字母的出現次數以外，更簡單的做法是將兩組字串進行排序，這樣就可以輕鬆比較了。
+
 ## Instructions
 
 An anagram is a rearrangement of letters to form a new word.

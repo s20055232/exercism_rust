@@ -27,3 +27,6 @@ jobs:
     - name: Test gigasecond
       working-directory: gigasecond
       run: cargo test --verbose
+    - name: Test clock
+      working-directory: clock
+      run: cargo test --verbose

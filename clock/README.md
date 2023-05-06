@@ -3,6 +3,10 @@
 Welcome to Clock on Exercism's Rust Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
+## 解題邏輯
+
+基本上了解`derive`有哪些實用的`trait`可以用來添加`struct`的行為，就可以快速解決這個問題。
+
 ## Instructions
 
 Implement a clock that handles times without dates.

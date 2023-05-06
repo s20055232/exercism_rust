@@ -3,6 +3,10 @@
 Welcome to Space Age on Exercism's Rust Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
+## 解題邏輯
+
+知道Rust基本的`trait`、`function`、`struct`，就可以解題了。
+
 ## Instructions
 
 Given an age in seconds, calculate how old someone would be on:

@@ -36,3 +36,6 @@ jobs:
     - name: Test space-age
       working-directory: space-age
       run: cargo test --verbose
+    - name: Test sublist
+      working-directory: sublist
+      run: cargo test --verbose

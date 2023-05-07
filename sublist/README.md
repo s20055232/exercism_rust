@@ -3,6 +3,12 @@
 Welcome to Sublist on Exercism's Rust Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
+## 解題邏輯
+
+運用基本的Rust枚舉觀念就可以解答，可以像我最一開始的做法一樣使用`if..else`，也可以使用`match`。
+
+我自己寫得答案跟這個[社群答案](https://exercism.org/tracks/rust/exercises/sublist/solutions/alireza4050)水平差太多了，其中對於作者`match`的認識跟使用方法非常有意思，推薦各位去看他的解答。
+
 ## Instructions
 
 Given two lists determine if the first list is contained within the second
